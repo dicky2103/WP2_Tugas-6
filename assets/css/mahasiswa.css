@@ -1,0 +1,40 @@
+body{
+    background: #eee;
+    color: #333;
+    font-family: sans-serif;
+    font-size: 15px;
+}
+
+#wrapper{
+    background: #fff;
+    width: 1300px;
+    height: 1000px auto;
+    margin: 20px auto;
+}
+
+#wrapper header{
+    background: #9fd7dd;
+    padding: 10px;
+}
+
+#wrapper header hgroup{
+    float: left;
+    color: rgb(99, 99, 99);
+}
+
+.clear{
+    clear: both;
+}
+
+footer{
+    background: #9fd7dd;
+    padding: 20px;
+}
+
+footer span{
+    color: rgb(0, 0, 0);
+}
+
+center{
+    padding: 20px;
+}
